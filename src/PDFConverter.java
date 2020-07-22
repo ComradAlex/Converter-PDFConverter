@@ -7,8 +7,7 @@ import org.apache.pdfbox.pdmodel.PDPage;
 import org.apache.pdfbox.util.ImageIOUtil;
 
 public class PDFConverter {
-        public String pdfFileName;
-        public String result_path;
+
 
         public static void local_convert (String pdfFileName, String result_path) throws IOException{
 
